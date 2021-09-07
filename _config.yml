@@ -11,7 +11,7 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            'Music In Me'
-tagline:          ''
+tagline:          'Home'
 description:      'Music In Me'
 url:              ''
 # Add mapping address to domain to url
@@ -39,16 +39,16 @@ author:         'Hell Sing Yang'
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       'https://www.facebook.com/profile.php?id=100010390832943'
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         ''
+gplus:          ''
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://www.linkedin.com/in/trong-nghia/'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  
+twitter:        'https://twitter.com/'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
