@@ -10,10 +10,11 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
-url:              'http://192.168.1.11:4000'
+title:            'Music In Me'
+tagline:          ''
+description:      'Music In Me'
+url:              ''
+# Add mapping address to domain to url
 baseurl:          ''
 
 # Navigation
@@ -33,7 +34,7 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Hell Sing Yang'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
