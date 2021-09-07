@@ -1,16 +1,23 @@
 ---
 layout: page
 title: Resume
-description: Resume of Abdel Raoof
+description: Resume of Me
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+Một năm kinh nghiệm trong ngành âm nhạc, với những hiểu biết về nhạc lý, sáng tác âm nhạc bla, bla.
 
-**Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+Hai năm kinh nghiệm trong ngành kỹ thuật, thiết kế, tính toán hệ thống đường ống.
 
-**Experience in Enterprise Content Management:**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+Ba năm kinh nghiệm freelancer, lập trình và thiết kế đồ họa.
+
+**Music and Beat Producer:**
+Sáng tác âm nhạc với home studio. Sử dung DAW là Fl Studio, tai nghe kiểm âm Tasktar Pro 82, MIDI Controller là Arturia MiniLab Mark II.
+
+**Piping Designer:**
+Thiết kế hệ thống đường ống cho giàn khoan dầu khí.
+
+**Freelancer:**
+Lập trình script với Python, VBA và C#. Thiết kế đồ họa với photoshop và Illustrator.
 
 <!-- Skills -->
 <section class="row">
@@ -21,19 +28,18 @@ Implemented custom applications for content and knowledge management. Have also 
 		<div class="row">
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
-					<li class="list-group-item">HTML & CSS</li>
+					<li class="list-group-item active"><h4><strong>Tổng hợp</strong></h4></li>
+					<li class="list-group-item">Âm nhạc</li>
+					<li class="list-group-item">Thiết kế</li>
+					<li class="list-group-item">Lập trình</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item active"><h4><strong>Chuyên</strong></h4></li>
+					<li class="list-group-item">Python</li>
+					<li class="list-group-item">FL Studio</li>
+					<li class="list-group-item">Graphics</li>
 				</ul>
 			</div>
 		</div>
@@ -48,12 +54,8 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
-			</li>
-			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
+				<h4>Bachelor of Engineer - Petroleum Engineer</h4>
+				<p>2014 - 2019 - PetroVietnam University</p>
 			</li>
 		</ul>
 	</div>
@@ -67,24 +69,14 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>C4 Advanced Solutions</h4>
-				<h5>Present</h5>
-				<p>Working as Application Developer</p>
+				<h4>PTSC M&C</h4>
+				<h5>August 2019 - May 2021</h5>
+				<p>Working as Piping Designer and Tool Developer</p>
 			</li>
 			<li>
-				<h4>Abdul Samad Al Qurashi</h4>
-				<h5>March 2010 - January 2013</h5>
-				<p>Worked as Web Developer</p>
-			</li>
-			<li>
-				<h4>Samsung SDS</h4>
-				<h5>May 2009 - March 2010</h5>
-				<p>Worked as Web Developer with MIS team</p>
-			</li>
-			<li>
-				<h4>Honeywell Technology Solutions</h4>
-				<h5>December 2006 - December 2008</h5>
-				<p>Worked as Project Trainee & later Software Engineer</p>
+				<h4>Freelancer</h4>
+				<h5>2015 - 2018</h5>
+				<p>Worked as Graphic Designer and Tool/Scripts Developer</p>
 			</li>
 		</ul>
 	</div>
